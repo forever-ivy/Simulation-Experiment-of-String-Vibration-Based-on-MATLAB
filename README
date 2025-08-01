@@ -43,73 +43,73 @@ string vibration/
 
 ### Installation
 
-1. **Clone or download** this repository to your local machine
-2. **Open MATLAB** and navigate to the project directory
-3. **Double-click** on `stringVibra.mlapp` to launch the application
+1.  **Clone or download** this repository to your local machine
+2.  **Open MATLAB** and navigate to the project directory
+3.  **Double-click** on `stringVibra.mlapp` to launch the application
 
 ### Quick Start
 
-1. **Launch the App**: Open `stringVibra.mlapp` in MATLAB
-2. **Load Data**: The application will automatically load parameters from `data.xlsx`
-3. **Set Parameters**: Configure string properties (length, tension, density, etc.)
-4. **Run Simulation**: Click the simulation button to start the vibration analysis
-5. **Visualize Results**: Observe real-time string vibration patterns and waveforms
+1.  **Launch the App**: Open `stringVibra.mlapp` in MATLAB
+2.  **Load Data**: The application will automatically load parameters from `data.xlsx`
+3.  **Set Parameters**: Configure string properties (length, tension, density, etc.)
+4.  **Run Simulation**: Click the simulation button to start the vibration analysis
+5.  **Visualize Results**: Observe real-time string vibration patterns and waveforms
 
 ### Tutorial Resources
 
-- 📹 **Watch**: `Instruction video.mp4` for a complete walkthrough
-- 📄 **Read**: `Instructions/String Vibration.docx` for detailed documentation
-- 🎯 **Present**: Use `Instructions/String Vibration.pptx` for educational presentations
+-   📹 **Watch**: `Instruction video.mp4` for a complete walkthrough
+-   📄 **Read**: `Instructions/String Vibration.docx` for detailed documentation
+-   🎯 **Present**: Use `Instructions/String Vibration.pptx` for educational presentations
 
 ## 🔬 Scientific Background
 
 String vibration analysis is fundamental to understanding:
 
-- **Wave Mechanics**: Transverse and longitudinal wave propagation
-- **Harmonic Motion**: Fundamental frequencies and overtones
-- **Resonance Phenomena**: Standing wave patterns and nodes
-- **Musical Acoustics**: String instrument physics
-- **Engineering Applications**: Cable dynamics and structural vibrations
+-   **Wave Mechanics**: Transverse and longitudinal wave propagation
+-   **Harmonic Motion**: Fundamental frequencies and overtones
+-   **Resonance Phenomena**: Standing wave patterns and nodes
+-   **Musical Acoustics**: String instrument physics
+-   **Engineering Applications**: Cable dynamics and structural vibrations
 
 ### Key Physics Concepts
 
-- **Wave Equation**: Mathematical modeling of string vibrations
-- **Boundary Conditions**: Fixed and free end constraints
-- **Mode Shapes**: Visualization of different vibrational modes
-- **Frequency Analysis**: Spectral decomposition of complex vibrations
+-   **Wave Equation**: Mathematical modeling of string vibrations
+-   **Boundary Conditions**: Fixed and free end constraints
+-   **Mode Shapes**: Visualization of different vibrational modes
+-   **Frequency Analysis**: Spectral decomposition of complex vibrations
 
 ## 📊 Features & Capabilities
 
 ### Simulation Parameters
 
-- String length and cross-sectional properties
-- Material density and elastic modulus
-- Boundary condition settings
-- Initial displacement and velocity profiles
-- Damping coefficients
+-   String length and cross-sectional properties
+-   Material density and elastic modulus
+-   Boundary condition settings
+-   Initial displacement and velocity profiles
+-   Damping coefficients
 
 ### Visualization Options
 
-- Real-time string displacement animation
-- Frequency spectrum analysis
-- Mode shape visualization
-- Time-domain and frequency-domain plots
-- 3D visualization capabilities
+-   Real-time string displacement animation
+-   Frequency spectrum analysis
+-   Mode shape visualization
+-   Time-domain and frequency-domain plots
+-   3D visualization capabilities
 
 ### Analysis Tools
 
-- Natural frequency calculation
-- Damping ratio estimation
-- Energy analysis
-- Harmonic content evaluation
-- Comparative studies
+-   Natural frequency calculation
+-   Damping ratio estimation
+-   Energy analysis
+-   Harmonic content evaluation
+-   Comparative studies
 
 ## 🎯 Educational Applications
 
-- **Physics Courses**: Wave mechanics and vibration theory
-- **Engineering Programs**: Structural dynamics and acoustics
-- **Music Technology**: String instrument design and analysis
-- **Research Projects**: Advanced vibration analysis studies
+-   **Physics Courses**: Wave mechanics and vibration theory
+-   **Engineering Programs**: Structural dynamics and acoustics
+-   **Music Technology**: String instrument design and analysis
+-   **Research Projects**: Advanced vibration analysis studies
 
 ## 📈 Usage Examples
 
@@ -135,37 +135,37 @@ density = 7.85;        % kg/m
 
 We welcome contributions to improve this educational tool:
 
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/AmazingFeature`)
-3. **Commit** your changes (`git commit -m 'Add some AmazingFeature'`)
-4. **Push** to the branch (`git push origin feature/AmazingFeature`)
-5. **Open** a Pull Request
+1.  **Fork** the repository
+2.  **Create** a feature branch (`git checkout -b feature/AmazingFeature`)
+3.  **Commit** your changes (`git commit -m 'Add some AmazingFeature'`)
+4.  **Push** to the branch (`git push origin feature/AmazingFeature`)
+5.  **Open** a Pull Request
 
 ## 📝 Documentation
 
 Detailed documentation is available in multiple formats:
 
-- **Word Document**: `Instructions/String Vibration.docx`
-- **PowerPoint Presentation**: `Instructions/String Vibration.pptx`
-- **Video Tutorial**: `Instruction video.mp4`
-- **Visual Guides**: Screenshots in the `assert/` folder
+-   **Word Document**: `Instructions/String Vibration.docx`
+-   **PowerPoint Presentation**: `Instructions/String Vibration.pptx`
+-   **Video Tutorial**: `Instruction video.mp4`
+-   **Visual Guides**: Screenshots in the `assert/` folder
 
 ## 🔧 Troubleshooting
 
 ### Common Issues
 
-1. **App won't open**: Ensure you have MATLAB R2018b or later
-2. **Missing toolboxes**: Install required MATLAB toolboxes
-3. **Data loading errors**: Verify `data.xlsx` is in the correct format
-4. **Performance issues**: Close other MATLAB applications and clear workspace
+1.  **App won't open**: Ensure you have MATLAB R2018b or later
+2.  **Missing toolboxes**: Install required MATLAB toolboxes
+3.  **Data loading errors**: Verify `data.xlsx` is in the correct format
+4.  **Performance issues**: Close other MATLAB applications and clear workspace
 
 ### Support
 
 For technical support or questions:
 
-- Check the documentation in the `Instructions/` folder
-- Review the video tutorial
-- Examine the example screenshots in `assert/`
+-   Check the documentation in the `Instructions/` folder
+-   Review the video tutorial
+-   Examine the example screenshots in `assert/`
 
 ## 📄 License
 
@@ -173,9 +173,9 @@ This project is intended for educational and research purposes. Please refer to 
 
 ## 🙏 Acknowledgments
 
-- Physics and Engineering educators who inspired this project
-- MATLAB community for App Designer resources
-- Students and researchers who provided feedback
+-   Physics and Engineering educators who inspired this project
+-   MATLAB community for App Designer resources
+-   Students and researchers who provided feedback
 
 ## 📞 Contact
 
